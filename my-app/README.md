@@ -23,7 +23,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
-dinosaurs-2.firebaseapp.com
+https://dinosaurs-2.firebaseapp.com
 
 #### Framework of choice
 React
